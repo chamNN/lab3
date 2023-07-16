@@ -1,0 +1,11 @@
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\bin\Debug\onTapLab3.exe.config
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\bin\Debug\onTapLab3.exe
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\bin\Debug\onTapLab3.pdb
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.csproj.AssemblyReference.cache
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.csproj.SuggestedBindingRedirects.cache
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.frm_onTaplab3.resources
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.Properties.Resources.resources
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.csproj.GenerateResource.cache
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.csproj.CoreCompileInputs.cache
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.exe
+D:\LAP-TRINH-3\NoiDungOnTapLab_3\onTapLab3\obj\Debug\onTapLab3.pdb
